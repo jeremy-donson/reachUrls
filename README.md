@@ -1,9 +1,12 @@
 # reachUrls
-Golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
+
+reachUrls is a test-driven Golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
+
+![alt text](docs/images/reach-logo-fpo.jpg "r•e•a•c•h")
 
 Target Audience: Technical Web Marketing Designers & Developers  
 
-Goal: Produce web content that predictably tests out favorably [here](richpreviews.com).  
+Goal: Produce web content which predictably tests out favorably [here](richpreviews.com).  
 
 ## Table Of Contents
 * reachUrls QuickStart
@@ -54,8 +57,6 @@ Version 2.x
 => funcname : in : out : description  
 ```
 
-
-
 ### Testing 
 Using gif preview live url for testing would serve as an ideal example.
 Using gibberish live url for testing would serve as a minimum example.
@@ -68,6 +69,7 @@ Using gibberish live url for testing would serve as a minimum example.
 2. Write test.  
 => "Hello, Go!"
 3. Fail test sans solution. ("fail first")
+=> "Hello, Go!"
 4. Fail test with solution with syntax errors.
 5. Pass test.
 
@@ -102,7 +104,8 @@ Using gibberish live url for testing would serve as a minimum example.
 * [Easy README.md Tool](https://www.makeareadme.com/)  
 * [Ruby Markdown Helper Gem](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
 * [Sortable UI Tool](http://github.com/sortablejs/ngx-sortablejs)
-* [Github Markdown CSS](https://github.com/sindresorhus/github-markdown-css)
+* [Github Markdown CSS Examples](https://github.com/sindresorhus/github-markdown-css)
+* [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Linux Command-Line Interface (cli) tools:
 * [Local Github Readme Page Rendering](https://github.com/joeyespo/grip)  
