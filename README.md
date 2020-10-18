@@ -1,5 +1,7 @@
 # reachUrls
-> A test-driven tool for generating and testing sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md){:target="_blank" rel="noopener"}. <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
+> A test-driven tool for generating and testing sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md).
+<img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
+
 ## Table Of Contents
 * [Abstract](#abstract)
 * [QuickStart](#quickstart)
