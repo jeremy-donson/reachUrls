@@ -13,6 +13,7 @@
 * [Contributors](#contributors)
 * [Attributions](#attributions)
 * [Open Source License](#open-source-license-mit)
+* [Document Author Notes](#document-author-notes)
 
 ### Abstract
 Objectives:  
