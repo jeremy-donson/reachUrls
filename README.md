@@ -28,7 +28,7 @@ Target Audiences:
 * [Open Source License](#open-source-license-mit)
 * [Document Author Notes](#document-author-notes)
 ---
-[^Top](#)
+
 ### QuickStarts Per Target Audience
 * [First Time Users]()
   - [Learn](docs/pages/first-time-users-quickstart.md) about deeper narratives that underpin this project.
@@ -38,6 +38,8 @@ Target Audiences:
 * [Web Page Designers]()
 * [Web Devs]()
 * [DevOps Engineers]()
+
+[^ Top](#)
 
 ### Features
 
