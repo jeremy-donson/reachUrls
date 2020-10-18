@@ -1,2 +1,187 @@
 # reachUrls
 Golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
+
+Goal: Produce content to predictably test out favorably [here](richpreviews.com).  
+Target Audience: Technical Web Marketing Designers & Developers  
+[Corresponding [Gist](https://gist.github.com/jeremy-donson/3114cbdaf72916c85ff4fb9744b7224a)].
+
+## Table Of Contents
+* reachUrls QuickStart
+* reachUrls Fundamental Conceptual Vocabulary
+* Features
+* Testing
+* Tools Used
+* Reference
+* Related Projects
+* Contributors
+* Open Source License
+---
+### Fundamental Conceptual Vocabulary
+fqdn • sites • sitemaps • pages • links • urls
+
+### QuickStart
+Verify tool interest via [reachUrls Demo ]():
+1. Simplest use-case(s) example(s).
+2. Ideal use-case(s) example(s).
+3. Custom example(s).
+
+### Features
+
+Version 1.x
+```
+func: genPageWithReach => testPageReach
+func: genUrlWithReach => testUrlReach
+func: genAliasWithReach => testAliasReach
+func: genLinkWithReach => testLinkReach
+
+func: returnDatestamp
+func: returnTimestamp
+func: validateUrlSyntax
+func: urlExists
+func: urlHasReach
+
+=> funcname_test : in () : match : out () : description
+   => Example: helloGo_test : ("$URLCONENT" = "Hello, Go!") ||  echo "FAIL 
+=> funcname : in : out : description  
+
+
+
+```
+
+Version 2.x
+```
+=> funcname_test : in : out : description
+=> funcname : in : out : description  
+```
+
+
+
+### Testing 
+Using gif preview live url for testing would serve as an ideal example.
+Using gibberish live url for testing would serve as a minimum example.
+
+* [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+
+#### Test-Driven Approach Suggestions
+1. Name test correctly. Define expected result = success. Define helpers.  
+=> TestHelloGo
+2. Write test.  
+=> "Hello, Go!"
+3. Fail test sans solution. ("fail first")
+4. Fail test with solution with syntax errors.
+5. Pass test.
+
+#### Installation
+```
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+#### Usage
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+#### Example Web Page: googleDoc
+#### Example URL: 
+#### Example Link: 
+
+Using gif preview live url for testing would serve as an ideal example.  
+Using gibberish live url for testing would serve as a minimum example.
+
+
+
+
+### Tools
+* [Easy README.md Tool](https://www.makeareadme.com/)  
+* [Ruby Markdown Helper Gem](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
+* [Sortable UI Tool](http://github.com/sortablejs/ngx-sortablejs)
+* [Github Markdown CSS](https://github.com/sindresorhus/github-markdown-css)
+
+Linux Command-Line Interface (cli) tools:
+* [Local Github Readme Page Rendering](https://github.com/joeyespo/grip)  
+* [bash]()
+* [curl]()
+* [vi]()
+* [git]()
+* [gists](https://gist.github.com/jeremy-donson/3114cbdaf72916c85ff4fb9744b7224a)
+
+### Reference
+* [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+* [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
+* [Rich preview optimizations article.](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69)
+[Go Development](https://github.com/jbelmont/golang-workshop)
+
+### Related Projects
+* [reachUrls]()
+* [reachLinks]()
+* [reachPrevs]()
+
+### Contributors
+[Seeking Project Maintainers]()  
+* [Docs]()  
+* [Code]()  
+* [DevOps]()  
+
+[Seeking Support Group Moderators](https://www.facebook.com/groups/osswebdevbackend)  
+[Github pull requests](??) are welcome.  For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.  
+
+### Attribution
+
+#### Several people have been indispensable:  
+* []()
+
+#### Several Medium.com articles have been instrumental:  
+* []()
+
+#### Several popular precedent sites were used for inspiration.  
+* [tinyurl]()
+* [bitly]()
+
+### Open Source License: [MIT](https://choosealicense.com/licenses/mit/)
+
+### Document Author Notes
+* \* Initially using bash => node => python3 => golang => kotkin?  
+* [] Bracketed text is for later removal.  
+* ?? Fill In Missing Data.  
+
+---
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta></meta>
+<title>reachURL Test Page</title>
+</head>
+<body>
+Inverted Check List:
+* [ ]: domain
+* [ ]: terraform
+* [ ]: jekyll
+* [ ]: github
+* [ ]: adPrev
+* [ ]: adLink
+* [ ]: adUrl
+* [ ]: favicon
+* [ ]: meta
+* [ ]: head
+* [ ]: html
+</body>
+</html>
+```
+---
+REACH:
+* R: Range of target audience diversity maximized.
+* E: Evergreen content availability guaranteed.
+* A: Agnostic with regard to browser flavors and recent versions.
+* C: Captures and draws in user attention.
+* H: Helps us improve our web page + web site KPIs.
