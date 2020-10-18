@@ -9,7 +9,6 @@ Goal: Produce web links that predictably tests out favorably on major social net
 WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+,
 
 ## Table Of Contents
-* [Core Vocabulary](#core-vocabulary)
 * [QuickStart](#quickstart)
 * [Features](#features)
 * [Testing](#testing)
@@ -19,9 +18,6 @@ WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, Li
 * [Contributors](#contributors)
 * [Open Source License](#open-source-license)
 ---
-### Core Vocabulary
-pages • urls • aliases • links 
-
 ### QuickStart
 Verify whether reach<x> tools are a fit via [reachUrls Demo]():
 1. Simplest use-case(s) example(s).
@@ -133,6 +129,8 @@ Linux Command-Line Interface (cli) tools:
 * [reachPrevs]()
 
 ### Contributors
+Please make sure to update tests as appropriate.  
+
 [Seeking Project Maintainers]()  
 * [Docs]()  
 * [Code]()  
@@ -140,8 +138,6 @@ Linux Command-Line Interface (cli) tools:
 
 [Seeking Support Group Moderators](https://www.facebook.com/groups/osswebdevbackend)  
 [Github pull requests](??) are welcome.  For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.  
 
 ### Attribution
 
