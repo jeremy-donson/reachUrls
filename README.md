@@ -5,6 +5,7 @@
 ## Table Of Contents
 * [Abstract](#abstract)
 * [QuickStart](#quickstart)
+* [Use-Cases](#use-cases)
 * [Features](#features)
 * [Testing](#testing)
 * [References](#references)
@@ -22,11 +23,22 @@ Produce web pages, urls and links that support previews which consistently test 
 Moving Targets:  
 Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
 
-Target Audiences Support Pages:  
-[Web SEO Marketing Analysts](docs/pages/seo) •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
+Target Audiences:
+Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
 
-### QuickStart
-Verify whether reach<x> tools are a fit via [reachUrls Demo]():
+### QuickStarts
+
+Per Target Audience:  
+[Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
+
+Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
+
+### Use-Cases
+
+#### Emerging
+#### Current
+#### Legacy
+
 1. Simplest use-case(s) example(s).
 2. Iterating towards minimal reach example(s).
 3. Ideal use-case(s) example(s).
