@@ -33,6 +33,8 @@ Target Audiences:
 
 Per Target Audience:  
 * [First Time Users]()
+  - [Learn](docs/pages/README.md) about deeper narratives that underpin this project.
+  - Determine whether these tools fit your needs from the [demo page](??).
 * [Web SEO Marketing Analysts]()
 * [Web Doc Creators]()
 * [Web Page Designers]()
