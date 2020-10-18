@@ -11,9 +11,11 @@
 * [Tools Used](#tools-used)
 * [Related Projects](#related-projects)
 * [Contributors](#contributors)
-* [Open Source License](#open-source-license)
+* [Attributions](#attributions)
+* [Open Source License](#open-source-license-mit)
+
 ### Abstract
-Goal: Produce web links that predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+Goal: Produce web pages, urls and links that will predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Target Audience: Technical Web Marketing Designers & Developers.  
 
@@ -115,17 +117,31 @@ Linux Command-Line Interface (cli) tools:
 * [git]()
 * [gists](https://gist.github.com/jeremy-donson/3114cbdaf72916c85ff4fb9744b7224a)
 
-### Reference
+### References
+
+#### User References
+
+#### Developer References
+
+#### Engineer References
+
 * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 * [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
 * [Rich preview optimizations article.](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69)
 * [Go Development](https://github.com/jbelmont/golang-workshop)
 * [Google SEO Optimizations](https://developers.google.com/search/docs/guides/prototype)
 
-### Related Projects
-* [reachUrls]()
-* [reachLinks]()
-* [reachPrevs]()
+### Attributions
+
+#### Several people have been indispensable:  
+* []()
+
+#### Several Medium.com articles have been instrumental:  
+* []()
+
+#### Several popular precedent sites were used for inspiration.  
+* [tinyurl]()
+* [bitly]()
 
 ### Contributors
 Please make sure to update tests as appropriate.  
@@ -138,19 +154,13 @@ Please make sure to update tests as appropriate.
 [Seeking Support Group Moderators](https://www.facebook.com/groups/osswebdevbackend)  
 [Github pull requests](??) are welcome.  For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
 
-### Attribution
-
-#### Several people have been indispensable:  
-* []()
-
-#### Several Medium.com articles have been instrumental:  
-* []()
-
-#### Several popular precedent sites were used for inspiration.  
-* [tinyurl]()
-* [bitly]()
-
 ### Open Source License: [MIT](https://choosealicense.com/licenses/mit/)
+
+### Related Projects
+* [reachPages]()
+* [reachUrls]()
+* [reachLinks]()
+* [reachPrevs]()
 
 ### Document Author Notes
 * [] Bracketed text is for later removal.  
