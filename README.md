@@ -6,20 +6,18 @@
 Objectives:  
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
-Moving Targets:  
-Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
-
 Target Audiences:  
 Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
 
 ---
 ## Table Of Contents
-* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Use-Cases](#use-cases)
   - [Legacy](#Legacy)
   - [Current](#Current)
   - [Emerging](#Emerging)
+* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Features](#features)
+* [Schema](#schema)
 * [Testing](#testing)
 * [References](#references)
 * [Tools Used](#tools-used)
@@ -30,19 +28,14 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 * [Document Author Notes](#document-author-notes)
 ---
 
-### QuickStarts Per Target Audience
-
-Per Target Audience:  
-[Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
-
-Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
-
 ### Use-Cases
 
+Moving Targets: Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
+
+Deeper Project Narratives
+
 #### Legacy
-
 #### Current
-
 #### Emerging
 
 1. Simplest use-case(s) example(s).
@@ -50,6 +43,19 @@ Verify whether these tools are a fit for your needs via [reachUrls Demo]() after
 3. Ideal use-case(s) example(s).
 4. Custom example(s).
 5. Review license and see if this will meet your needs.
+
+### QuickStarts Per Target Audience
+
+[Reflect On The Deeper Narratives First](docs/README.md)
+
+[Reflect On The Deeper Narratives First](docs/README.md)
+
+
+Per Target Audience:  
+[Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
+
+Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
+
 
 ### Features
 
@@ -79,6 +85,19 @@ Version 2.x
 => funcname_test : in : out : description
 => funcname : in : out : description  
 ```
+
+### Schemas
+* Links --< linkElements
+* URLs  --< urlAliases
+* URLs --< urlElements
+* Pages --< pageElements
+
+TABLE = page:
+- page_id
+- tstamp
+- blah_name
+- last_queried
+- last_query_results
 
 ### Testing 
 Using gif preview live url for testing would serve as an ideal example.
@@ -132,6 +151,8 @@ Ruby Gems:
 * [Sortable UI Tool](http://github.com/sortablejs/ngx-sortablejs)
 * [Github Markdown CSS Examples](https://github.com/sindresorhus/github-markdown-css)
 * [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Node HTML5 Lint Tool](https://github.com/mozilla/html5-lint)
+
 
 Linux Command-Line Interface (cli) tools:
 * [Local Github Readme Page Rendering](https://github.com/joeyespo/grip)  
@@ -139,31 +160,32 @@ Linux Command-Line Interface (cli) tools:
 * [curl]()
 * [vi]()
 * [git]()
-* [gists](https://gist.github.com/jeremy-donson/3114cbdaf72916c85ff4fb9744b7224a)
 
 ### References
 
-#### User References
-
-#### Developer References
-
-#### Engineer References
-
-* [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
-* [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
+#### Web SEO Marketing Analysts + Web Doc Creators
 * [Rich preview optimizations article.](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69)
+
+#### Web Designers
+* [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+
+####  Web Devs
+
+#### DevOps Engineers
+
+* [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
 * [Go Development](https://github.com/jbelmont/golang-workshop)
 * [Google SEO Optimizations](https://developers.google.com/search/docs/guides/prototype)
 
 ### Attributions
 
-#### Several people have been indispensable:  
+#### Indispensable People
 * []()
 
-#### Several Medium.com articles have been instrumental:  
+#### Instrumental Medium.com Articles  
 * []()
 
-#### Several popular precedent sites were used for inspiration.  
+#### Inspiration derived from popular existing sites with related features.  
 * [tinyurl]()
 * [bitly]()
 
@@ -222,4 +244,4 @@ Inverted Check List:
 * [ ]: bash
 </body>
 </html>
-```
+``
