@@ -1,9 +1,9 @@
 # reachUrls
 Golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
 
-Goal: Produce content to predictably test out favorably [here](richpreviews.com).  
 Target Audience: Technical Web Marketing Designers & Developers  
-[Corresponding [Gist](https://gist.github.com/jeremy-donson/3114cbdaf72916c85ff4fb9744b7224a)].
+
+Goal: Produce web content that predictably tests out favorably [here](richpreviews.com).  
 
 ## Table Of Contents
 * reachUrls QuickStart
