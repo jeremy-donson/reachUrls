@@ -14,7 +14,7 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 
 ---
 ## Table Of Contents
-* [QuickStarts](#quickstarts)
+* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Use-Cases](#use-cases)
 * [Features](#features)
 * [Testing](#testing)
@@ -27,7 +27,7 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 * [Document Author Notes](#document-author-notes)
 ---
 
-### QuickStarts
+### QuickStarts Per Target Audience
 
 Per Target Audience:  
 [Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
