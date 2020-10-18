@@ -16,6 +16,9 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 ## Table Of Contents
 * [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Use-Cases](#use-cases)
+  - [Legacy](#Legacy)
+  - [Current](#Current)
+  - [Emerging](#Emerging)
 * [Features](#features)
 * [Testing](#testing)
 * [References](#references)
@@ -35,8 +38,11 @@ Per Target Audience:
 Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
 
 ### Use-Cases
+
 #### Legacy
+
 #### Current
+
 #### Emerging
 
 1. Simplest use-case(s) example(s).
