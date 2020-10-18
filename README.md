@@ -2,9 +2,18 @@
 > A test-driven tool for generating and testing sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md).
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 
+### Abstract
+Objectives:  
+Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+
+Moving Targets:  
+Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
+
+Target Audiences:
+Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
+---
 ## Table Of Contents
-* [Abstract](#abstract)
-* [QuickStart](#quickstart)
+* [QuickStarts](#quickstarts)
 * [Use-Cases](#use-cases)
 * [Features](#features)
 * [Testing](#testing)
@@ -15,16 +24,7 @@
 * [Attributions](#attributions)
 * [Open Source License](#open-source-license-mit)
 * [Document Author Notes](#document-author-notes)
-
-### Abstract
-Objectives:  
-Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
-
-Moving Targets:  
-Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
-
-Target Audiences:
-Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
+---
 
 ### QuickStarts
 
@@ -34,10 +34,9 @@ Per Target Audience:
 Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
 
 ### Use-Cases
-
-#### Emerging
-#### Current
 #### Legacy
+#### Current
+#### Emerging
 
 1. Simplest use-case(s) example(s).
 2. Iterating towards minimal reach example(s).
