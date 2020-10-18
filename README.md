@@ -17,7 +17,11 @@
 ### Abstract
 Goal: Produce web pages, urls and links that will predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
-Target Audience: Technical Web Marketing Designers & Developers.  
+Target Audiences Support Pages:
+* Technical Web Marketing Analysts
+* Creators of Docs
+* Web Designers
+* DevOps Engineers
 
 ### QuickStart
 Verify whether reach<x> tools are a fit via [reachUrls Demo]():
