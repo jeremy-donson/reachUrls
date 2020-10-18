@@ -31,7 +31,7 @@ Target Audiences:
 
 ### QuickStarts Per Target Audience
 * [First Time Users]()
-  - [Learn](docs/pages/README.md) about deeper narratives that underpin this project.
+  - [Learn](docs/pages/first-time-users-quickstart.md) about deeper narratives that underpin this project.
   - [Determine](??) whether these tools fit your needs from the demo page.
 * [Web SEO Marketing Analysts]()
 * [Web Doc Creators]()
