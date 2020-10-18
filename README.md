@@ -6,9 +6,8 @@ reachUrls is a test-driven tool for generating sample pages, urls and links that
 Target Audience:  
 Technical Web Marketing Designers & Developers
 
-Goal:  
-Produce web links that predictably tests out favorably on major social networking sites,  
-including WhatsApp, Telegram, Skype and the social networks Facebook, Instagram, LinkedIn and Google+,
+Goal: Produce web links that predictably tests out favorably on major social networking sites, including  
+WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+,
 
 ## Table Of Contents
 * [Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
