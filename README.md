@@ -9,8 +9,9 @@ Produce web pages, urls and links that support previews which consistently test 
 Moving Targets:  
 Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
 
-Target Audiences:
+Target Audiences:  
 Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
+
 ---
 ## Table Of Contents
 * [QuickStarts](#quickstarts)
