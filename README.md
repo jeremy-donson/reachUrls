@@ -10,7 +10,7 @@ Goal: Produce web links that predictably tests out favorably on major social net
 WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+,
 
 ## Table Of Contents
-* [Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
+* [Core Vocabulary](#core-vocabulary)
 * [QuickStart](#quickstart)
 * [Features](#features)
 * [Testing](#testing)
@@ -20,8 +20,8 @@ WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, Li
 * [Contributors](#contributors)
 * [Open Source License](#open-source-license)
 ---
-### Fundamental Conceptual Vocabulary
-fqdn • domains • subdomains • sites • sitemaps • pages • urls • aliases • links 
+### Core Vocabulary
+pages • urls • aliases • links 
 
 ### QuickStart
 Verify tool interest via [reachUrls Demo ]():
@@ -96,13 +96,18 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 #### Example URL: 
 #### Example Link: 
 
-Using gif preview live url for testing would serve as an ideal example.  
-Using gibberish live url for testing would serve as a minimum example.
-
+Using gibberish live url for testing would serve as a bare bones example.  
+Other steps exist between min and max.  
+Using gif preview live url for testing would serve as an ideal example.
 
 ### Tools Used
 * [Easy README.md Tool](https://www.makeareadme.com/)  
-* [Ruby Markdown Helper Gem](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
+
+Ruby Gems:
+* [Markdown Helper](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
+* [Jekyll SEO](https://github.com/pmarsceill/jekyll-seo-gem)
+* [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
+
 * [Sortable UI Tool](http://github.com/sortablejs/ngx-sortablejs)
 * [Github Markdown CSS Examples](https://github.com/sindresorhus/github-markdown-css)
 * [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -153,7 +158,6 @@ Please make sure to update tests as appropriate.
 ### Open Source License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ### Document Author Notes
-* \* Initially using bash => node => python3 => golang => kotkin?  
 * [] Bracketed text is for later removal.  
 * ?? Fill In Missing Data.  
 
@@ -176,6 +180,9 @@ Inverted Check List:
 * [ ]: adPrev
 * [ ]: adLink
 * [ ]: adUrl
+* [ ]: golang
+* [ ]: python
+* [ ]: node
 * [ ]: favicon
 * [ ]: meta
 * [ ]: head
@@ -183,6 +190,7 @@ Inverted Check List:
 * [ ]: rich link
 * [ ]: rich url
 * [ ]: rich page
+* [ ]: bash
 </body>
 </html>
 ```
