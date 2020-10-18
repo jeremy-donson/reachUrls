@@ -1,11 +1,19 @@
+## First Time Users Quickstart
 
+### Table Of Contents
+* [REACH](#reach)
+* [Deeper Project Narratives](#deeper-project-narratives)
 
-REACH:
+### REACH:
 * R: Range of target audience diversity maximized.
 * E: Evergreen content availability guaranteed.
 * A: Agnostic with regard to browser flavors and recent versions.
-* C: Captures and draws in user attention.
+* C: Captures and draws in user attention with visual cues and interactive options.
 * H: Helps us improve our web page + web site KPIs.
+
+### Deeper Project Narratives  
+
+
 ---
 * [Core Vocabulary](#core-vocabulary)
 ### Core Vocabulary
