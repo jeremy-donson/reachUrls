@@ -1,14 +1,7 @@
 # reachUrls
-<img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
-
-reachUrls is a test-driven tool for generating sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md).
-
-Target Audience: Technical Web Marketing Designers & Developers
-
-Goal: Produce web links that predictably tests out favorably on major social networking sites, including  
-WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+,
-
+> A test-driven tool for generating and testing sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md){:target="_blank" rel="noopener"}. <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 ## Table Of Contents
+* [Abstract](#abstract)
 * [QuickStart](#quickstart)
 * [Features](#features)
 * [Testing](#testing)
@@ -17,7 +10,11 @@ WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, Li
 * [Related Projects](#related-projects)
 * [Contributors](#contributors)
 * [Open Source License](#open-source-license)
----
+### Abstract
+Goal: Produce web links that predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+
+Target Audience: Technical Web Marketing Designers & Developers.  
+
 ### QuickStart
 Verify whether reach<x> tools are a fit via [reachUrls Demo]():
 1. Simplest use-case(s) example(s).
