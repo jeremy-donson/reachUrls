@@ -1,7 +1,7 @@
 # reachUrls
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="r•e•a•c•h"/>
 
-reachUrls is a test-driven Golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
+reachUrls is a test-driven golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
 
 Target Audience: Technical Web Marketing Designers & Developers  
 
@@ -19,7 +19,7 @@ Goal: Produce web content which predictably tests out favorably [here](richprevi
 * [Open Source License](#open-source-license)
 ---
 ### Fundamental Conceptual Vocabulary
-fqdn • sites • sitemaps • pages • links • urls
+fqdn • sites • sitemaps • pages • urls • aliases • links
 
 ### QuickStart
 Verify tool interest via [reachUrls Demo ]():
@@ -98,8 +98,6 @@ Using gif preview live url for testing would serve as an ideal example.
 Using gibberish live url for testing would serve as a minimum example.
 
 
-
-
 ### Tools Used
 * [Easy README.md Tool](https://www.makeareadme.com/)  
 * [Ruby Markdown Helper Gem](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
@@ -119,7 +117,8 @@ Linux Command-Line Interface (cli) tools:
 * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 * [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
 * [Rich preview optimizations article.](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69)
-[Go Development](https://github.com/jbelmont/golang-workshop)
+* [Go Development](https://github.com/jbelmont/golang-workshop)
+* [Google SEO Optimizations](https://developers.google.com/search/docs/guides/prototype)
 
 ### Related Projects
 * [reachUrls]()
