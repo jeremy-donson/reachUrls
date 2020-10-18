@@ -16,10 +16,13 @@
 
 ### Abstract
 Objectives:  
-Produce web pages, urls and links that will predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+
+Moving Targets:
+Browsers • HTML5 Spec • Social Networking Link Preview Test Pages
 
 Target Audiences Support Pages:  
-[Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
+[Web SEO Marketing Analysts](docs/pages/seo) •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
 
 ### QuickStart
 Verify whether reach<x> tools are a fit via [reachUrls Demo]():
