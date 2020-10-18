@@ -15,7 +15,8 @@
 * [Open Source License](#open-source-license-mit)
 
 ### Abstract
-Goal: Produce web pages, urls and links that will predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+Objectives:  
+Produce web pages, urls and links that will predictably test out favorably via SMS, WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Target Audiences Support Pages:  
 [Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
