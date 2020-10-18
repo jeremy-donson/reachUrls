@@ -1,5 +1,5 @@
 # reachUrls
-> The first of several test-driven tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md).
+> The first of several tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md).
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 
 ### Abstract
