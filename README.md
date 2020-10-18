@@ -1,15 +1,15 @@
 # reachUrls
-<img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="r•e•a•c•h"/>
+<img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 
-reachUrls is a test-driven golang\* library for generating sample pages, urls and links with [*reach*](docs/README.md).
+reachUrls is a test-driven golang\* library for generating sample pages, urls and links with [*REACH*](docs/README.md).
 
 Target Audience: Technical Web Marketing Designers & Developers  
 
 Goal: Produce web links that predictably tests out favorably on major social networking sites.
 
 ## Table Of Contents
-* [reachUrls Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
-* [reachUrls QuickStart](#quickstart)
+* [Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
+* [QuickStart](#quickstart)
 * [Features](#features)
 * [Testing](#testing)
 * [Tools Used](#tools-used)
@@ -19,7 +19,7 @@ Goal: Produce web links that predictably tests out favorably on major social net
 * [Open Source License](#open-source-license)
 ---
 ### Fundamental Conceptual Vocabulary
-fqdn • sites • sitemaps • pages • urls • aliases • links
+fqdn • domains • subdomains • sites • sitemaps • pages • urls • aliases • links 
 
 ### QuickStart
 Verify tool interest via [reachUrls Demo ]():
@@ -166,6 +166,7 @@ Please make sure to update tests as appropriate.
 </head>
 <body>
 Inverted Check List:
+* [ ]: traffic
 * [ ]: domain
 * [ ]: terraform
 * [ ]: jekyll
@@ -177,6 +178,9 @@ Inverted Check List:
 * [ ]: meta
 * [ ]: head
 * [ ]: html
+* [ ]: rich link
+* [ ]: rich url
+* [ ]: rich page
 </body>
 </html>
 ```
