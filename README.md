@@ -10,13 +10,13 @@ Goal: Produce web content which predictably tests out favorably [here](richprevi
 ## Table Of Contents
 * [reachUrls Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
 * [reachUrls QuickStart](#quickstart)
-* Features
-* Testing
-* Tools Used
-* Reference
-* Related Projects
-* Contributors
-* Open Source License
+* [Features](#features)
+* [Testing](#testing)
+* [Tools Used](#tools-used)
+* [Reference](#reference)
+* [Related Projects](#related-projects)
+* [Contributors](#contributors)
+* [Open Source License](#open-source-license)
 ---
 ### Fundamental Conceptual Vocabulary
 fqdn • sites • sitemaps • pages • links • urls
@@ -26,6 +26,7 @@ Verify tool interest via [reachUrls Demo ]():
 1. Simplest use-case(s) example(s).
 2. Ideal use-case(s) example(s).
 3. Custom example(s).
+4. Review license and see if this will meet your needs.
 
 ### Features
 
@@ -99,7 +100,7 @@ Using gibberish live url for testing would serve as a minimum example.
 
 
 
-### Tools
+### Tools Used
 * [Easy README.md Tool](https://www.makeareadme.com/)  
 * [Ruby Markdown Helper Gem](https://github.com/BurdetteLamar/markdown_helper#markdown-helper)
 * [Sortable UI Tool](http://github.com/sortablejs/ngx-sortablejs)
