@@ -37,8 +37,7 @@ Per Target Audience:
   - [Determine](??) whether these tools fit your needs from the demo page.
 * [Web SEO Marketing Analysts]()
 * [Web Doc Creators]()
-* [Web Devs]()
-* [Web Page Designers]()
+* [Web Page Designers]()
 * [Web Devs]()
 * [DevOps Engineers]()
 
