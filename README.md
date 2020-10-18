@@ -19,7 +19,7 @@ Objectives:
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Moving Targets:  
-Browsers • HTML5 Spec • Social Networking Link Preview Test Pages
+Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
 
 Target Audiences Support Pages:  
 [Web SEO Marketing Analysts](docs/pages/seo) •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
