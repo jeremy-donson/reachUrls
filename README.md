@@ -1,11 +1,11 @@
 # reachUrls
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="r•e•a•c•h"/>
 
-reachUrls is a test-driven golang\* library for generating pages, urls and links with [*reach*](docs/README.md).
+reachUrls is a test-driven golang\* library for generating sample pages, urls and links with [*reach*](docs/README.md).
 
 Target Audience: Technical Web Marketing Designers & Developers  
 
-Goal: Produce web content which predictably tests out favorably [here](richpreviews.com).  
+Goal: Produce web links that predictably tests out favorably on major social networking sites.
 
 ## Table Of Contents
 * [reachUrls Fundamental Conceptual Vocabulary](#fundamental-conceptual-vocabulary)
