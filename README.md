@@ -3,8 +3,7 @@
 
 reachUrls is a test-driven tool for generating sample pages, urls and links that have potent [*R•E•A•C•H*](docs/README.md).
 
-Target Audience:  
-Technical Web Marketing Designers & Developers
+Target Audience: Technical Web Marketing Designers & Developers
 
 Goal: Produce web links that predictably tests out favorably on major social networking sites, including  
 WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+,
@@ -24,11 +23,12 @@ WhatsApp, Telegram, Skype, Slack and the social networks Facebook, Instagram, Li
 pages • urls • aliases • links 
 
 ### QuickStart
-Verify tool interest via [reachUrls Demo ]():
+Verify whether reach<x> tools are a fit via [reachUrls Demo]():
 1. Simplest use-case(s) example(s).
-2. Ideal use-case(s) example(s).
-3. Custom example(s).
-4. Review license and see if this will meet your needs.
+2. Iterating towards minimal reach example(s).
+3. Ideal use-case(s) example(s).
+4. Custom example(s).
+5. Review license and see if this will meet your needs.
 
 ### Features
 
