@@ -7,7 +7,12 @@ Objectives:
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Target Audiences:  
-Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs • DevOps Engineers
+* First Time Users
+* Web SEO Marketing Analysts
+* Web Doc Creators
+* Web Page Designers
+* Web Devs
+* DevOps Engineers
 
 ---
 ## Table Of Contents
@@ -26,15 +31,11 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 
 ### QuickStarts Per Target Audience
 
-[Reflect On Objectives & Deeper Narratives First](docs/README.md).
-
-Verify whether these tools are a fit for your needs via [reachUrls Demo](??).
-
 Per Target Audience:  
 * [First Time Users]()
 * [Web SEO Marketing Analysts]()
 * [Web Doc Creators]()
-* [Web Designers]()
+* [Web Page Designers]()
 * [Web Devs]()
 * [DevOps Engineers]()
 
