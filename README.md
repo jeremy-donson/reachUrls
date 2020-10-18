@@ -11,10 +11,6 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 
 ---
 ## Table Of Contents
-* [Use-Cases](#use-cases)
-  - [Legacy](#Legacy)
-  - [Current](#Current)
-  - [Emerging](#Emerging)
 * [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Features](#features)
 * [Schema](#schema)
@@ -28,34 +24,19 @@ Web SEO Marketing Analysts • Web Doc Creators • Web Designers • Web Devs �
 * [Document Author Notes](#document-author-notes)
 ---
 
-### Use-Cases
-
-Moving Targets: Browsers • HTML5 Spec • Anchor Page Content+Metadata • Social Networking Link Preview Test Pages
-
-Deeper Project Narratives
-
-#### Legacy
-#### Current
-#### Emerging
-
-1. Simplest use-case(s) example(s).
-2. Iterating towards minimal reach example(s).
-3. Ideal use-case(s) example(s).
-4. Custom example(s).
-5. Review license and see if this will meet your needs.
-
 ### QuickStarts Per Target Audience
 
-[Reflect On The Deeper Narratives First](docs/README.md)
+[Reflect On Objectives & Deeper Narratives First](docs/README.md).
 
-[Reflect On The Deeper Narratives First](docs/README.md)
-
+Verify whether these tools are a fit for your needs via [reachUrls Demo](??).
 
 Per Target Audience:  
-[Web SEO Marketing Analysts]() •  [Web Doc Creators]() • [Web Designers]() • [Web Devs]() • [DevOps Engineers]()
-
-Verify whether these tools are a fit for your needs via [reachUrls Demo]() after reflecting on the use-cases below.
-
+* [First Time Users]()
+* [Web SEO Marketing Analysts]()
+* [Web Doc Creators]()
+* [Web Designers]()
+* [Web Devs]()
+* [DevOps Engineers]()
 
 ### Features
 
