@@ -7,13 +7,10 @@ Objectives:
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Target Audiences:  
-* New Tool Evaluators
-* New Users
-* Web SEO Marketing Analysts
-* Web Doc Creators
-* Web Page Designers
-* Web Devs
-* DevOps Engineers
+* New Tool Evaluators • New Users
+* Web Producers & SEO Marketing Analysts
+* Web Doc Creators • Web Page Designers
+* Web Devs • DevOps Engineers
 
 ---
 ## Table Of Contents
@@ -100,7 +97,7 @@ Linux Command-Line Interface (cli) tools:
 * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 
 ####  Web Devs
-
+https://medium.com/@adhasmana/system-design-create-a-url-shortening-service-part-1-overview-26aae5597914
 #### DevOps Engineers
 
 * [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
