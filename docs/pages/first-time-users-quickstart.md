@@ -11,13 +11,34 @@
 * C... Captures and draws in user attention with visual cues and interactive options.
 * H... Helps improve key web page performance indicators.
 
+### IMAGING FORMATS
+
+#### Bitmap
+https://pixlr.com/e/
+https://www.lifewire.com/gimp-animated-gif-tutorial-1701714
+
+#### Animated Gifs
+
+#### SVG
+http://diagrams.net/
+https://graphviz.org/
+https://inkscape.org/
+
+#### WebGL
+https://github.com/ericdrowell/ElGrapho
+
 ### Deeper Project Narratives  
 
+ [ Points Of Agnostic Leverage ]: Workflows,Tests,
+
+ [ Same Tests Across Languages ]: bash=>node=>ruby=>python=>golang=>kotlin
+
+ [ Open Source Bartering ]: devOps=>appDev=>uiDev=>projMgr
 
 ---
 * [Core Vocabulary](#core-vocabulary)
 ### Core Vocabulary
-ascii • pages • urls • aliases • links • preview • mouseover
+ascii • pages • urls • aliases • links • preview • sitemap • mouseover
 ---
 * [Use-Cases](#use-cases)
   - [Legacy](#Legacy)
@@ -32,6 +53,7 @@ Moving Targets:
 * [HTML5 Spec](https://www.w3.org/TR/html52/)
 * Anchor Page Metadata + Content
 * Social Networking APIs / Link Preview Test Pages
+
 
 Deeper Project Narratives
 

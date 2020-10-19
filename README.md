@@ -1,8 +1,33 @@
 # reachUrls
-> The first of several tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md).
+> Some tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md) in 2020.
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
+---
 
-### Abstract
+## Table Of Contents
+* [Project Abstract]()
+* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
+* [How To Contribute To This Project](#how-to-contribute-to-this-project)
+  - [Web Doc Creators]()
+  - [Web Page Designers]()
+  - [Web App Devs]()
+  - [DevOps Engineers]()
+* [Related Projects](#related-projects)
+* [Open Source License](#open-source-license-mit)
+* [Document Author Notes](#document-author-notes)
+---
+
+## Table Of Contents Per Target Audience
+* [Target Audience Abstract]()
+* [Target Audience Instructions]()
+* [Features](#features)
+* [Schema](#schema)
+* [Testing](#testing)
+* [References](#references)
+* [Tools Used](#tools-used)
+* [Attributions](#attributions)
+---
+
+### Project Abstract
 Objectives:  
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
@@ -12,41 +37,75 @@ Target Audiences:
 * Web SEO Marketing Analysts
 * Web Doc Creators
 * Web Page Designers
-* Web Devs
-* DevOps Engineers
-
----
-## Table Of Contents
-* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
-* [Features](#features)
-* [Schema](#schema)
-* [Testing](#testing)
-* [References](#references)
-* [Tools Used](#tools-used)
-* [Related Projects](#related-projects)
-* [Contributors](#contributors)
-* [Attributions](#attributions)
-* [Open Source License](#open-source-license-mit)
-* [Document Author Notes](#document-author-notes)
----
-
-### QuickStarts Per Target Audience
-* [New Tool Evaluators]()
-* [New Users]()
-  - [Learn](docs/pages/first-time-users-quickstart.md) about deeper narratives that underpin this project.
-  - [Determine](??) whether these tools fit your needs from the demo page.
-* [Web SEO Marketing Analysts]()
-* [Web Doc Creators]()
-* [Web Page Designers]()
-* [Web Devs]()
-* [DevOps Engineers]()
+* Web App Devs
+* Project Managers
+* QA Testing Automation Engineers
+* Platform DevOps Engineers
+* Database Architects + Engineers
+* Infrastructure DevOps Architects + Engineers
 
 [^ Top](#)
+### QuickStarts Per Target Audience
+Target Audiences:  
+* New Tool Evaluators:  Look, but dont touch.  Perhaps scouting tools for someone else?  Criteria counts!
+* New Users:  Look, install, learn to use, touch and test.
+* Web SEO Marketing Analysts:  Survey and track reach value per page and per page property.
+* Web Doc Creators:  Learn to leverage modern open source publishing tools and workflows.
+* Web Page Designers:  Create custom web pages that have reach.
+* Web App Devs:  Add reach functionality to web pages.
+* Project Managers:  Organize teams, analyze workflows, decompose project goals into test-driven tasks, and automate teamwork.
+* QA Testing Automation Engineers: Define tests and ensure testing sufficiency at every layer of the stack.
+* Platform DevOps Engineers:  Automate platform code testing across environments.  Platform security.
+* Database Architects + Engineers: Model and test data engine functionality.  Optimize query performance.  Data security.
+* Infrastructure DevOps Architects + Engineers:  Automate infrastructure provisioning, testing & deployments.  Infrastructure security.
+
+[^ Top](#)
+### How To Contribute To This Project
+1. Get a free [github.com account](??), and then watch and star this repo.
+2. Share rich link to this page with your colleages and friends.
+3. Anyone can contribute edits by filling out a [github pull request]().
+4. Barter in to support the community
+   - In tech support groups: [user interface designers]() • [web app devs]() • [dev ops engineers]()
+   - On slack.
+5. 
+
+[Seeking Support Group Moderators](https://www.facebook.com/groups/osswebdevbackend)  
+[Github pull requests](??) are welcome.
+For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
+
+
+Calls To Action For Project Contributors:
+* New Tool Evaluators:  Tell us about your tool selection criteria and how we matched up?
+* New Users:  Tell us about your maiden voyage using this tool so that we can 
+* Web SEO Marketing Analysts:  
+* Web Doc Creators:  Learn to leverage modern open source publishing tools and workflows.
+* Web Page Designers:  Create custom web pages that have reach.
+* Web Devs:  Add reach functionality to web pages.
+* Project Managers:  Organize teams, analyze workflows, decompose project goals into test-driven tasks, and automate teamwork.
+* QA Testing Automation Engineers: Define tests and ensure testing sufficiency at every layer of the stack.
+* Platform DevOps Engineers:  Automate platform code testing across environments.  Platform security.
+* Database Architects + Engineers: Model and test data engine functionality.  Optimize query performance.  Data security.
+* Infrastructure DevOps Architects + Engineers:  Automate infrastructure provisioning, testing & deployments.  Infrastructure security.
+
+
+[^ Top](#)
+### Related Projects
+* [reachPages]()
+* [reachUrls]()
+* [reachLinks]()
+* [reachPrevs]()
+
+### Open Source License: [MIT](https://choosealicense.com/licenses/mit/)
+
+
+### Document Author Notes
+* [] Bracketed text is for later removal.  
+* ?? Fill In Missing Data.  
+
 
 ### Features
 
 #### Installation
-```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
@@ -90,22 +149,25 @@ Linux Command-Line Interface (cli) tools:
 * [curl]()
 * [vi]()
 * [git]()
+* [urlencode]()
 
 ### References
 
 #### Web SEO Marketing Analysts + Web Doc Creators
 * [Rich preview optimizations article.](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69)
+* [Google SEO Optimizations](https://developers.google.com/search/docs/guides/prototype)
 
 #### Web Designers
 * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 
 ####  Web Devs
+* [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
+* [Choosing Proper Open Source License For Your Project](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
 
 #### DevOps Engineers
 
-* [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
+* [URL Shortening Service Written In Golang](https://github.com/maheshhp/tiny_scale_go/)
 * [Go Development](https://github.com/jbelmont/golang-workshop)
-* [Google SEO Optimizations](https://developers.google.com/search/docs/guides/prototype)
 
 ### Attributions
 
@@ -127,17 +189,3 @@ Please make sure to update tests as appropriate.
 * [Code]()  
 * [DevOps]()  
 
-[Seeking Support Group Moderators](https://www.facebook.com/groups/osswebdevbackend)  
-[Github pull requests](??) are welcome.  For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
-
-### Open Source License: [MIT](https://choosealicense.com/licenses/mit/)
-
-### Related Projects
-* [reachPages]()
-* [reachUrls]()
-* [reachLinks]()
-* [reachPrevs]()
-
-### Document Author Notes
-* [] Bracketed text is for later removal.  
-* ?? Fill In Missing Data.  
