@@ -7,7 +7,8 @@ Objectives:
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
 
 Target Audiences:  
-* First Time Users
+* New Tool Evaluators
+* New Users
 * Web SEO Marketing Analysts
 * Web Doc Creators
 * Web Page Designers
@@ -30,7 +31,8 @@ Target Audiences:
 ---
 
 ### QuickStarts Per Target Audience
-* [First Time Users]()
+* [New Tool Evaluators]()
+* [New Users]()
   - [Learn](docs/pages/first-time-users-quickstart.md) about deeper narratives that underpin this project.
   - [Determine](??) whether these tools fit your needs from the demo page.
 * [Web SEO Marketing Analysts]()
