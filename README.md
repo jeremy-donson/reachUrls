@@ -1,6 +1,19 @@
 # reachUrls
 > Some tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md) in 2020.
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
+<<<<<<< HEAD
+=======
+
+### Abstract
+Objectives:  
+Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+
+Target Audiences:  
+* New Tool Evaluators • New Users
+* Web Producers & SEO Marketing Analysts
+* Web Doc Creators • Web Page Designers
+* Web Devs • DevOps Engineers
+
 ---
 
 ## Table Of Contents
@@ -161,9 +174,13 @@ Linux Command-Line Interface (cli) tools:
 * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 
 ####  Web Devs
+<<<<<<< HEAD
 * [HTML Meta Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
 * [Choosing Proper Open Source License For Your Project](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
 
+=======
+https://medium.com/@adhasmana/system-design-create-a-url-shortening-service-part-1-overview-26aae5597914
+>>>>>>> 2f0b701c821966bc4b3724678f338bba055a0814
 #### DevOps Engineers
 
 * [URL Shortening Service Written In Golang](https://github.com/maheshhp/tiny_scale_go/)
