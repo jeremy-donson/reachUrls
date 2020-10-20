@@ -89,22 +89,16 @@ Calls To Action Per Target Audience
 | Target Audience  | Calls To Action  |
 | -------------------- | --------------- |
 | New Tool Evaluators  | Tell us about your tool selection criteria and how we matched up?  |
-| New Users  | Tell us about your maiden voyage using this tool so that we can   |
-| Web SEO Marketing Analysts  |       |
----
-
-Calls To Action For Project Contributors:
-* New Tool Evaluators:  Tell us about your tool selection criteria and how we matched up?
-* New Users:  Tell us about your maiden voyage using this tool so that we can 
-* Web SEO Marketing Analysts:  
-* Web Doc Creators:  Learn to leverage modern open source publishing tools and workflows.
-* Web Page Designers:  Create custom web pages that have reach.
-* Web Devs:  Add reach functionality to web pages.
-* Project Managers:  Organize teams, analyze workflows, decompose project goals into test-driven tasks, and automate teamwork.
-* QA Testing Automation Engineers: Define tests and ensure testing sufficiency at every layer of the stack.
-* Platform DevOps Engineers:  Automate platform code testing across environments.  Platform security.
-* Database Architects + Engineers: Model and test data engine functionality.  Optimize query performance.  Data security.
-* Infrastructure DevOps Architects + Engineers:  Automate infrastructure provisioning, testing & deployments.  Infrastructure security.
+| New Users  | Tell us about your maiden voyage using this tool so that we can improve user first experiences.  |
+| Web SEO Marketing Analysts  | Ask us about maximum reach.  Ask us about bulk operations.  |
+| Web Doc Creators  | Learn to leverage modern open source publishing tools and workflows. |
+| Web Page Designers  | Create custom web pages that have reach.  |
+| Web Developers | Add reach functionality to web pages. |
+| Project Managers  | Organize teams, analyze workflows, decompose project goals into test-driven tasks, and automate teamwork. |
+| QA Testing Automation Engineers  | Define tests and ensure testing sufficiency at every layer of the stack. |
+| Platform DevOps Engineers  | Automate platform code testing across environments.  Platform security. |
+| Database Architects + Engineers  | Model and test data engine functionality.  Optimize query performance.  Data security. |
+| Infrastructure DevOps Architects + Engineers  | Automate infrastructure provisioning, testing & deployments.  Infrastructure security. |
 
 
 [^ Top](#)
