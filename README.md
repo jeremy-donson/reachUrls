@@ -84,6 +84,14 @@ Target Audiences:
 [Github pull requests](??) are welcome.
 For any major proposed changes, please [open an issue](??) first to discuss what you would like to change.
 
+Calls To Action Per Target Audience
+
+| Target Audience  | Calls To Action  |
+| -------------------- | --------------- |
+| New Tool Evaluators  | Tell us about your tool selection criteria and how we matched up?  |
+| New Users  | Tell us about your maiden voyage using this tool so that we can   |
+| Web SEO Marketing Analysts  |       |
+---
 
 Calls To Action For Project Contributors:
 * New Tool Evaluators:  Tell us about your tool selection criteria and how we matched up?
