@@ -1,41 +1,50 @@
 # reachUrls
-> Tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md) in 2020.
+> Tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md).
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 
 ## Project Table Of Contents
 * [Project Abstract](#project-abstract)
+  - Objectives
+  - Target Audiences
+* [Repository Tour](#project-repository-tour)
 * [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [How To Contribute To This Project](#how-to-contribute-to-this-project)
   - [Web Doc Creators]()
   - [Web Page Designers]()
   - [Web App Devs]()
   - [DevOps Engineers]()
+* [Project Resources](#project-resources)
 * [Related Projects](#related-projects)
 * [Open Source License](#open-source-license-mit)
 * [Document Author Notes](#document-author-notes)
 
-* [Project Docs]()
-  - [Technical Roadmap]()
-  - [Business Plan]()
-* [Project Tool Diagrams]()
-  - [Graphical User Interface]()
-  - [Command Line Interface]()
-  - [Data Flow Diagram]()
-  - [Entity Relational Diagram]()
-  - [Stack Layers]()
-  - [Environments]()
-  - [Workflow Automation & Testing Diagrams]()
-
-
 ## Table Of Contents Per Target Audience
 * [Target Audience Abstract]()
 * [Target Audience Instructions]()
+* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [Features](#features)
 * [Schema](#schema)
 * [Testing](#testing)
 * [References](#references)
 * [Tools Used](#tools-used)
 * [Attributions](#attributions)
+
+## Project Resources
+* [Project Support Docs]()
+  - [Technical Roadmap]()
+  - [Business Plan]()
+* [Project Support Diagrams]()
+  - [Graphical User Interface]()
+  - [Repository Tree](#project-repository-tree)
+  - [Command Line Interface]()
+  - [Workflow Automation & Testing Diagrams]()
+  - [Data Flow Diagram]()
+  - [Entity Relational Diagram]()
+  - [Stack Layers]()
+  - [Environments]()
+  - [Stack Layers x Environments]()
+
+
 
 ### Project Abstract
 Objectives:  
@@ -70,7 +79,7 @@ Target Audiences:
 * Infrastructure DevOps Architects + Engineers
 
 Target Audiences:  
-* New Tool Evaluators • New Users
+* New Tool Evaluators • First Time Users
 * Web Producers & SEO Marketing Analysts
 * Web Doc Creators • Web Page Designers
 * Web Devs • DevOps Engineers
@@ -80,9 +89,11 @@ Target Audiences:
 [^ Top](#)
 ### Project Repository Tree
 
-```.
+```
+$ tree reachUrls
+.
 ├── LICENSE
-├── README.md (we are here)
+├── README.md
 ├── code
 │   ├── README.md
 │   └── genPage.sh
@@ -95,6 +106,9 @@ Target Audiences:
         ├── README.md
         └── first-time-users-quickstart.md
 ```
+
+### Project Repository Tour
+
 
 [^ Top](#)
 ### QuickStarts Per Target Audience

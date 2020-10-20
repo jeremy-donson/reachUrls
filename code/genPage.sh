@@ -17,6 +17,38 @@ Instructions:
 
 '
 
+Generate bash arrays from heredoc syntax.  
+Reflect on bash array keyword: [declare](https://unix.stackexchange.com/questions/254367/in-bash-scripting-whats-the-different-between-declare-and-a-normal-variable/254374)
+
+
+```bash
+
+filewnew() { echo -en "${2}" > "${1}" ;}
+filewexists() { echo -en "${2}" >> "${1}" ;}
+fileexists() { if [ -f "${1}" ]; then filewexists FILE TEXT ; else filewnew FILE TEXT  ; fi ; }
+mkdircd() { mkdir "$1" && cd "${1}" }
+mkgitrepo() { filewnew FILE TEXT  && git init && git add . && git commit -m 'First local commit.';}
+
+#!/bin/env bash
+
+
+$ STACK_LAYERS=( user-interface web-apps services data network operating-system infrastructure )
+$ ENVIRONMENTS=( local-desktop local-mobile team-dev team-qa team-qc staging production uat fed exec it )
+$ ENV_PURPOSES['local-desktop']=('')
+$ ENV_PURPOSES['local-mobile']=('')
+$ ENV_PURPOSES['team-dev']=('')
+
+
+FILE='filename'; TEXT='text'
+
+$ REPO_DIR_NAME='reachUrls';
+$ GIT_IGNORES='.DS_Store'
+$ mkdircd "${REPO_DIR_NAME}"
+$ mkdir -p {code,docs/{assemblers,components,images,pages/{quickstarts,support}}/} 
+$ 
+
+```
+
 :' Meta Tags + Rules
 - 1. Title: A title should be maximum 65 characters or else will be clipped in the Google results.
 - 2. Meta description: A meta description should be maximum 155 characters or else will be clipped in the Google results.
