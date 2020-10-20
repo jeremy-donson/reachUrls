@@ -4,11 +4,13 @@
 
 ## Project Table Of Contents
 * [Project Abstract](#project-abstract)
-  - Objectives
-  - Target Audiences
+  - [Objectives](#objectives)
+  - [Overviews](#overviews)
+  - [Target Audiences](#target-audiences)
 * [Repository Tour](#project-repository-tour)
 * [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [How To Contribute To This Project](#how-to-contribute-to-this-project)
+  - [Web Doc Creators]()
   - [Web Doc Creators]()
   - [Web Page Designers]()
   - [Web App Devs]()
@@ -18,38 +20,12 @@
 * [Open Source License](#open-source-license-mit)
 * [Document Author Notes](#document-author-notes)
 
-## Table Of Contents Per Target Audience
-* [Target Audience Abstract]()
-* [Target Audience Instructions]()
-* [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
-* [Features](#features)
-* [Schema](#schema)
-* [Testing](#testing)
-* [References](#references)
-* [Tools Used](#tools-used)
-* [Attributions](#attributions)
-
-## Project Resources
-* [Project Support Docs]()
-  - [Technical Roadmap]()
-  - [Business Plan]()
-* [Project Support Diagrams]()
-  - [Graphical User Interface]()
-  - [Repository Tree](#project-repository-tree)
-  - [Command Line Interface]()
-  - [Workflow Automation & Testing Diagrams]()
-  - [Data Flow Diagram]()
-  - [Entity Relational Diagram]()
-  - [Stack Layers]()
-  - [Environments]()
-  - [Stack Layers x Environments]()
-
-
-
 ### Project Abstract
-Objectives:  
+
+#### Objectives
 Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and social networks points of presence, including Facebook, Instagram, LinkedIn and Google+.  We will verify page-url-link reach properties through a single endpoint.
 
+#### Overviews
 In the next few blog posts, we will design, test, build and deploy a system which:
 - Given a long url, returns a short code for it: shortUrlw(longUrl)
 - Given a short url, returns the long url if it exists or not found: longUrlr(shortUrl)
@@ -62,8 +38,7 @@ Write performance requirements.
 
 Read performance requirements.
 
-
-Target Audiences:  
+#### Target Audiences
 * New Tool Evaluators
 * New Users
 * Web SEO Marketing Analysts
