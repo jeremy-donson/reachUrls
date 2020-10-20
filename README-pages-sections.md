@@ -61,3 +61,17 @@ page types: [ README ghubPage webPage ]
 simplest vs ideal
 singleton vs mixed batch
 moving targets
+
+
+laminate
+
+convert to doc
+
+https://access.redhat.com/eform/submit/red-hat-accelerators-feedback
+
+https://github.com/ericdrowell/ElGrapho
+
+https://domains.google.com/registrar/
+- authenticitynyc.net
+- urbanspectra.net
+
