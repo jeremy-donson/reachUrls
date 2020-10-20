@@ -1,21 +1,9 @@
 # reachUrls
-> Some tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md) in 2020.
+> Tools for generating and testing sample pages, urls and links for optimal [*R•E•A•C•H*](docs/README.md) in 2020.
 <img src="docs/images/reach-logo-fpo-cropped.png" width="100" height="100" title="R•E•A•C•H"/>
 
-### Abstract
-Objectives:  
-Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
-
-Target Audiences:  
-* New Tool Evaluators • New Users
-* Web Producers & SEO Marketing Analysts
-* Web Doc Creators • Web Page Designers
-* Web Devs • DevOps Engineers
-
----
-
-## Table Of Contents
-* [Project Abstract]()
+## Project Table Of Contents
+* [Project Abstract](#project-abstract)
 * [QuickStarts Per Target Audience](#quickstarts-per-target-audience)
 * [How To Contribute To This Project](#how-to-contribute-to-this-project)
   - [Web Doc Creators]()
@@ -25,7 +13,19 @@ Target Audiences:
 * [Related Projects](#related-projects)
 * [Open Source License](#open-source-license-mit)
 * [Document Author Notes](#document-author-notes)
----
+
+* [Project Docs]()
+  - [Technical Roadmap]()
+  - [Business Plan]()
+* [Project Tool Diagrams]()
+  - [Graphical User Interface]()
+  - [Command Line Interface]()
+  - [Data Flow Diagram]()
+  - [Entity Relational Diagram]()
+  - [Stack Layers]()
+  - [Environments]()
+  - [Workflow Automation & Testing Diagrams]()
+
 
 ## Table Of Contents Per Target Audience
 * [Target Audience Abstract]()
@@ -36,11 +36,25 @@ Target Audiences:
 * [References](#references)
 * [Tools Used](#tools-used)
 * [Attributions](#attributions)
----
 
 ### Project Abstract
 Objectives:  
-Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and the social networks Facebook, Instagram, LinkedIn and Google+.
+Produce web pages, urls and links that support previews which consistently test out favorably via sms, WhatsApp, Signal, Telegram, Skype, Slack and social networks points of presence, including Facebook, Instagram, LinkedIn and Google+.
+
+We will verify page-url-link reach properties 
+
+In the next few blog posts, we will design, test, build and deploy a system which:
+- Given a long url, returns a short code for it: shortUrlw(longUrl)
+- Given a short url, returns the long url if it exists or not found: longUrlr(shortUrl)
+- 
+- Deploy this app locally as a linux service, and then deploy this app as a k8s service.
+- Auto scale the app based on the traffic.
+- Load test the application.
+
+Write performance requirements.
+
+Read performance requirements.
+
 
 Target Audiences:  
 * New Tool Evaluators
@@ -54,6 +68,31 @@ Target Audiences:
 * Platform DevOps Engineers
 * Database Architects + Engineers
 * Infrastructure DevOps Architects + Engineers
+
+Target Audiences:  
+* New Tool Evaluators • New Users
+* Web Producers & SEO Marketing Analysts
+* Web Doc Creators • Web Page Designers
+* Web Devs • DevOps Engineers
+
+---
+
+## Project Repository Tree
+
+.
+├── LICENSE
+├── README.md (we are here)
+├── code
+│   ├── README.md
+│   └── genPage.sh
+└── docs
+    ├── README.md
+    ├── images
+    │   ├── reach-logo-fpo-cropped.png
+    │   └── reach-logo-fpo.jpg
+    └── pages
+        ├── README.md
+        └── first-time-users-quickstart.md
 
 [^ Top](#)
 ### QuickStarts Per Target Audience
@@ -99,7 +138,6 @@ Calls To Action Per Target Audience
 | Platform DevOps Engineers  | Automate platform code testing across environments.  Platform security. |
 | Database Architects + Engineers  | Model and test data engine functionality.  Optimize query performance.  Data security. |
 | Infrastructure DevOps Architects + Engineers  | Automate infrastructure provisioning, testing & deployments.  Infrastructure security. |
-
 
 [^ Top](#)
 ### Related Projects
@@ -163,6 +201,7 @@ Linux Command-Line Interface (cli) tools:
 * [vi]()
 * [git]()
 * [urlencode]()
+* [tree]()
 
 ### References
 
