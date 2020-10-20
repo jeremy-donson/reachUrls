@@ -77,9 +77,10 @@ Target Audiences:
 
 ---
 
-## Project Repository Tree
+[^ Top](#)
+### Project Repository Tree
 
-.
+```.
 ├── LICENSE
 ├── README.md (we are here)
 ├── code
@@ -93,6 +94,7 @@ Target Audiences:
     └── pages
         ├── README.md
         └── first-time-users-quickstart.md
+```
 
 [^ Top](#)
 ### QuickStarts Per Target Audience
