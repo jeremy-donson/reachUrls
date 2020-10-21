@@ -2,20 +2,21 @@
 
 How to learn•teach•earn as effectively as possible using open source documentation technologies.
 
+Objective: Minimize time investments required to implement open source software learn-teach-earn cycles.
+
 ## Table Of Contents
 * [Github Readme Doc Standards](#github-readme-doc-standards)
 * [Open Source Software Project Challenges]()
 
 ### Github Readme Doc Standards
 
-Discerning both the diffs and connections between project docs and wikis is fundamental to understanding this doc.
-
-Software project docs are for software developers, who build software widgets (swidgets).  
-Like code, software project readme doc is to be as terse and clear as possible.
-
-Wikis are for the swidget users, so they *tend* to be less terse and more user-friendly.
-
-
+Fundamental to understanding this doc:
+* Discerning diffs as well as connections between software project docs and softare project wikis.
+* Software project docs are for software developers, who team up to build software widgets (swidgets).  
+* Like code, a software project readme doc is to be as terse•clear•actionable•testable as possible.
+* Making docs and tests first *tends* to produce the best code.  However, as code improves, docs can grow stale.
+* Wikis are for the swidget users, so they *tend* to be less terse and more user-friendly.
+* Anyone can contribute to open source software projects at many levels.  Docs are a great place to start.
 
 Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
 
