@@ -1,4 +1,6 @@
-# Open Source Software Project Documentation Tools & Best Practices
+# OSS Project Docs Tools & Best Practices
+
+How to make money with open source code and docs.
 
 ## Table Of Contents
 * [Github Readme Doc Standards](#github-readme-doc-standards)
