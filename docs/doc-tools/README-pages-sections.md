@@ -2,7 +2,7 @@
 
 How to learn•teach•earn as effectively as possible using open source documentation technologies.
 
-Objective: Minimize time investments required to implement open source software learn-teach-earn cycles.
+Objective: Minimize time required to implement open source software learn-teach-earn sales cycles.
 
 ## Table Of Contents
 * [Github Readme Doc Standards](#github-readme-doc-standards)
