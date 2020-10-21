@@ -1,9 +1,70 @@
-# Organizing Directories + Pages + Document Structures
+# Open Source Software Project Documentation Tools & Best Practices
 
 ## Table Of Contents
-* [Project Tree](#project-tree)
+* [Github Readme Doc Standards](#github-readme-doc-standards)
+* [Open Source Software Project Challenges]()
+
+swidget design, testing, implementation, support, docs => docDocJuice mamaDocs
+* [Project Metadata Challenges](#project-metadata-challenges)
+
+* [Project Tree Challenges](#project-tree)
 * [Project Pages](#project-pages)
-* [Project Document Structure](#project-docstrux)
+* [Project Document Content](#project-document-content)
+* [Project Document Structure](#project-document-structure)
+* Automation
+
+
+* Targeting Document Audiences Pyramid
+ * Technical vs Non-Technical Language
+ * For Software Developers & Engineers
+ * For Savvy Users
+ * For Non-Savvy Users
+* Planning & Testing Actionable Tasks
+* Team Demographics
+* Team Automation Pipelines
+* Doc Value Increases Via Brevity
+* Navigation
+* Workflows
+* Diagrams
+* Tests
+* Demos
+* Appeals
+* Proposals
+* Glossaries
+* Templates
+
+
+### Github Readme Doc Standards
+* For Software Developers & Engineers
+* For Savvy Users
+* For Non-Savvy Users
+* Planning and Testing Actionable Tasks
+* Team Automation
+
+
+
+https://guides.github.com/features/wikis/
+
+
+### Doc Tools Abstract
+
+Roadmap: Overarching document file types and formats
+- pdf
+- google docs
+- github readme pages using github markdown => We Are Here!
+- github pages using jekyll
+- leveraging 
+- custom static web pages
+- custom dynamic web pages
+- self-testing docs that are web apps
+
+Organizing Directories + Pages + Document Structures
+
+
+- [x] Directory 
+- [ ] Pages
+- [ ] Doc Structures
+
 
 
 
